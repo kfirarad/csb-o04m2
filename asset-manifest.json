@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://kfirarad.github.io/csb-o04m2/static/css/main.397c16f6.chunk.css",
-    "main.js": "https://kfirarad.github.io/csb-o04m2/static/js/main.97517370.chunk.js",
-    "main.js.map": "https://kfirarad.github.io/csb-o04m2/static/js/main.97517370.chunk.js.map",
+    "main.js": "https://kfirarad.github.io/csb-o04m2/static/js/main.dd40c002.chunk.js",
+    "main.js.map": "https://kfirarad.github.io/csb-o04m2/static/js/main.dd40c002.chunk.js.map",
     "runtime-main.js": "https://kfirarad.github.io/csb-o04m2/static/js/runtime-main.decfe07a.js",
     "runtime-main.js.map": "https://kfirarad.github.io/csb-o04m2/static/js/runtime-main.decfe07a.js.map",
     "static/js/2.5e5b533e.chunk.js": "https://kfirarad.github.io/csb-o04m2/static/js/2.5e5b533e.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.decfe07a.js",
     "static/js/2.5e5b533e.chunk.js",
     "static/css/main.397c16f6.chunk.css",
-    "static/js/main.97517370.chunk.js"
+    "static/js/main.dd40c002.chunk.js"
   ]
 }
